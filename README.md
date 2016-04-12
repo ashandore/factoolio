@@ -1,0 +1,2 @@
+# factoolio
+Factorio planning tool
